@@ -1,0 +1,9 @@
+public class Main
+{
+public static void main(String[] args)
+{
+int h = 60, b = 8, a = 5, Day;
+Day = h / (b - a);
+System.out.println( Day+" в этот день улитка доползет до вершины");
+}
+} 
